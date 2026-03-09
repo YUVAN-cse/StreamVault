@@ -1,1 +1,0 @@
-export const MONGO_NAME = "your_db_name";
